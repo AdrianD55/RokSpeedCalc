@@ -1,2 +1,2 @@
 # RokSpeedCalc
-A program to calculate speedups in Rise of Kingdoms 
+A program to calculate speedup items in Rise of Kingdoms mobile game 
